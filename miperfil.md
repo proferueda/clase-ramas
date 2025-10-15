@@ -11,3 +11,11 @@ Ingeniero de Sistemas y Computación con más de 10 años de experiencia en desa
 - Documento de identidad: C.C. 1.012.345.678 de Bogotá D.C.
 - Dirección: Calle 123 # 45-67, Bogotá D.C., Colombia
 - Teléfono: +57 300 123 4567
+
+## Experiencia Laboral
+
+### Desarrollador de Software
+**Empresa:** Tech Solutions S.A.S.  
+**Fecha:** Enero 2015 - Actualidad  
+**Funciones:**
+- Desarrollo de aplicaciones web.
