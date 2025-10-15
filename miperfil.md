@@ -20,3 +20,6 @@ Ingeniero de Sistemas y Computación con más de 10 años de experiencia en desa
 **Fecha:** Enero 2015 - Actualidad  
 **Funciones:**
 - Desarrollo de aplicaciones web.
+
+## Desarrollador WEB
+**Empresa:** Web Innovators Ltda.
